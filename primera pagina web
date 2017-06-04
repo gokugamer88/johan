@@ -1,0 +1,42 @@
+<!Doctype html>
+<html>
+<style>
+    body {
+        background-color: chartreuse
+    }
+    
+    #pepito perez {
+       
+        background-color: aqua
+    }
+ 
+    h2 {color: deeppink}
+</style>
+
+<body>
+
+    <h2>mis paginas favoritas</h2>
+
+    <ul>
+        <li>
+            <a href=https://es-la.facebook.com/>facebook </a>
+        </li>
+        <li>
+            <a href=https://www.google.es/>google</a>
+
+        </li>
+        <li><a href=https://www.youtube.com/?hl=es&gl=ES>youtube</a></li>
+
+        <li><a href=h ttps://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1496595080&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Fmkt%3Des-es&lc=3082&id=64855&mkt=es-es&cbcxt=mai> hotmail </a></li>
+        <div id="pepito perez">
+            <p>hey muy buenas a todos </p>
+        </div>
+        <div id="mensaje2" background-color="green">
+            <p>hola k hace</p>
+        </div>
+
+
+
+</body>
+
+</html>
